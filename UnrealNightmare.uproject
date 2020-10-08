@@ -9,5 +9,15 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "RiderLink",
+			"Enabled": false
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		}
 	]
 }
